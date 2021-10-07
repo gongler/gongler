@@ -16,7 +16,7 @@
 
 
 
-![LOGO](img/me300c.png)
+![LOGO](http://82.157.124.225/img/me300c.png)
 
 
 
